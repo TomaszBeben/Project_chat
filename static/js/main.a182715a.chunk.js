@@ -1,0 +1,2 @@
+(this.webpackJsonpproject_chat=this.webpackJsonpproject_chat||[]).push([[0],{3:function(e,t,n){e.exports=n(4)},4:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n.n(c),o=n(2),r=n.n(o),s=(n(9),function(){return a.a.createElement("div",{className:"test"})});document.addEventListener("DOMContentLoaded",(function(){r.a.render(a.a.createElement(s,null),document.getElementById("app"))}))},9:function(e,t,n){}},[[3,1,2]]]);
+//# sourceMappingURL=main.a182715a.chunk.js.map
