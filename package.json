@@ -1,7 +1,7 @@
 {
     "name": "project_chat",
     "version": "0.1.0",
-    "homepage": "tomaszbeben.github.io/project_chat/",
+    "homepage": "https://tomaszbeben.github.io/project_chat/",
     "private": true,
     "dependencies": {
         "@testing-library/jest-dom": "^4.2.4",
